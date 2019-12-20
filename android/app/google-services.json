@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "466520117983",
+    "firebase_url": "https://pharmassist-app.firebaseio.com",
+    "project_id": "pharmassist-app",
+    "storage_bucket": "pharmassist-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466520117983:android:6ac06a20982ae17144cf6a",
+        "android_client_info": {
+          "package_name": "pharmassist.pharmassist_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466520117983-a96cq0h64j84ir5lpiqtsqu0ip7rdjl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiMtM0Gw69w6D0omFTjDBV_E6vfLVrpak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466520117983-a96cq0h64j84ir5lpiqtsqu0ip7rdjl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
